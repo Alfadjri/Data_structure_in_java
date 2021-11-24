@@ -1,12 +1,15 @@
 # Data Structur using java
     - ArrayList2
-        - Menghapus Data
-            - Menghapus menggunakan index
-            - Menghapus menggunakan iteratior
-            - Menghapus menggunakan tipe data Object
-            - Menghapus menggunakan semua data dengan Remove All
-            - Menghapus menggunakan semua data dengan Clear
-            - Menghapus menggunakan Duplikat Array secara manual
-            - Menghapus Menggunakan Duplikat Menggunakan steam collections
-            - Menghapus Menggunakan RemoveIf dengan operator OR
+        - Menghapus  Data
+            -  Menggunakan index (ALRemove,ALRemove2,ALRemoveObj3)
+            -  Menggunakan iteratior(ALRemove3)
+            -  Menggunakan tipe data Object (ALRemoveObj,ALRemove2)
+            -  Menggunakan semua data dengan Remove All (ALRemAll)
+            -  Menggunakan semua data dengan Clear (ALRemClear)
+            -  Menggunakan Duplikat Array secara manual (ALRemDuplicatie)
+            -  Menggunakan Duplikat Menggunakan steam collections (ALRemDuplicatie2)
+            -  Menggunakan RemoveIf dengan operator OR (ALRemIf , ALRemIf2)
+            -  Menggunakan Rentang Tertentu (ALRemReng)
+            -  Menggunakan Perbadingna ArrayList (ALRentainAll)
+        - Membuka data Satu persatu (ALSpliter)
 

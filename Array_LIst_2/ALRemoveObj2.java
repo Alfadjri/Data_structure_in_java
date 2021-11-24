@@ -10,7 +10,7 @@ public class ALRemoveObj2 {
         ls.add("Data 4");
         System.out.println("Data \t : " + ls);
         // menghapus data awal secara langsung atau menggunakan object
-        ls.remove("Data 1");
+        ls.remove(new String("Data 1"));
         System.out.println("Edit \t : " + ls);
 
         // hasil
