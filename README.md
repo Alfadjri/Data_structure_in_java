@@ -10,6 +10,7 @@
             -  Menggunakan Duplikat Menggunakan steam collections (ALRemDuplicatie2)
             -  Menggunakan RemoveIf dengan operator OR (ALRemIf , ALRemIf2)
             -  Menggunakan Rentang Tertentu (ALRemReng)
+            -  Menggunakan Rentang Tertentu berbentuk String (AlREmReng2)
             -  Menggunakan Perbadingna ArrayList (ALRentainAll)
         - Membuka data Satu persatu (ALSpliter)
 
