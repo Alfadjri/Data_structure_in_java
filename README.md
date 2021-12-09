@@ -1,4 +1,4 @@
-# Data Structur using java
+# Data Structur Menggunakan java
     - ArrayList2
         - Menghapus  Data
             -  Menggunakan index (ALRemove,ALRemove2,ALRemoveObj3)
