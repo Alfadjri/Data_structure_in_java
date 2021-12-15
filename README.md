@@ -43,5 +43,19 @@
             - Mengecek value yang ada di dalam hashtable menggunakan containsValue();
             - Mengeeck apakah hashtable memiliki isi dengan isEmpty jika dan menghapus seluruh isi table menggunakan clear() (HashTablesIsEmpty)
             - Membandingkan dua tabel dengan menggunakan equals() (HashTableEquals)
+    - Hash Map
+            - Memanggil, membuat, dan menampilkan (HMPut)
+            - Membuat Hash Map dengan menetapkan kapasistas (HMInitCapacity)
+            - Clone HashMap (HMInitMap)
+            - Merubah value (HMChangeElm)
+            - Cek panjang HashMap dan mengambil nilai HashMap (HMGet)
+            - Mengambil key dan value menggunakan map pada HashMap (HMGetValue)
+            - Mencari data hashMap (HMContainsKey)
+            - .MEngambil key dan value menggunakan .keySet() dan .keyValue() (HMKeySet);
+            -  Mengganti nilai dan memasukan nilai dengan patokan key (HMenterySet)
+            - Menghapus nilai menggunakan .remove(key) (HMRemove)
+            - Menghapus secara berurut (HMRemIter) 
+
+
 
 
