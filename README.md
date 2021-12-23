@@ -55,7 +55,13 @@
             -  Mengganti nilai dan memasukan nilai dengan patokan key (HMenterySet)
             - Menghapus nilai menggunakan .remove(key) (HMRemove)
             - Menghapus secara berurut (HMRemIter) 
-
+    - Tree Map
+            - Memanggil,Membuat, menampillkand dan membandingkan (TMPut)
+            - Update Value yang ada di dalam Tree Map (TMUpdate)
+            - Cek Size,Cek Key,mengambil Value key tertentu dalam Tree Map (TMConstrainKey)
+            - mengambil key dalam tree Map dan menampilakn secara urut (TMGetKeyVal)
+            - Menghapus data dengan menggunakna key value dari data Map (TMRem)
+            - Membuat Tree Map Secara manual
 
 
 

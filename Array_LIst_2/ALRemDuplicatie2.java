@@ -1,4 +1,4 @@
-package Data_structure_in_java.Array_LIst_2;
+
 import java.util.List;
 import java.util.ArrayList;
 import java.util.stream.Collectors;
