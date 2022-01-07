@@ -62,6 +62,25 @@
             - mengambil key dalam tree Map dan menampilakn secara urut (TMGetKeyVal)
             - Menghapus data dengan menggunakna key value dari data Map (TMRem)
             - Membuat Tree Map Secara manual
+    - Vector 
+            - Memanggil,Membuat, dan Menampilkan Vector (AddElm)
+            - memasukan semua data sekali gus menggunakan addAll (VectorAddAll)
+            - edit nilai dengan setElemAt sifatnya tidak mengeluarkan nilai apapun maka akan error (VectorSetElmAt)
+            - edit nilai dengan set sifatnya menggeluarkan nilai terakhir sebelum terjadi edit (VectorSet)
+            - Menambahkan data di tempat tertentu (VectorlnsElmAt)
+            - Mendapatkan nilai tertentnu .elementAt(VectorElmAt)
+            - Mendapatkan data paling awal .firstElement (VectorFirstElm)
+            - Mendapatkan data paling akhir .lastElement
+            (VLastElm)
+            - Mendapatkan banyak data pada Vektor (Vectorlast)
+            - Mendapatkan jumlah panjang data yang dapat di tampung oleh Vector secara default 10 data awal yang akan di buat (VectorCap)
+            - Menyetel data yang dapat di tampung dengan ensureCapacity (VectorEnsureCap)
+            - Mendapatkan nilai tertentu dengan .get()
+            (VecotrGet)
+            - Menampilkan data menggunakan iteration for dan for each (vectoriter)
+            - Menampilkan dan mengubah ututan pada Vector dengan menggunakan listIterator(VectorListiter)
+
+
 
 
 
